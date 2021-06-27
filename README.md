@@ -3,7 +3,7 @@
 #### web crawl flipkart.com and extract data from the website and save data in another file to use.
 
 
-![caption](github (1).webp)
+![caption](github.webp)
 ## Clone : 
 
 clone the repository to contribute
