@@ -9,7 +9,7 @@
 clone the repository to contribute
 
 ```bash
-git clone <https://github.com/LaB1B/FlipKart-Crawler>
+git clone https://github.com/LaB1B/FlipKart-Crawler
 ```
 
 ## Dependencies : 
